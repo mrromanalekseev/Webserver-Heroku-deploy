@@ -1,0 +1,21 @@
+{
+  "name": "RomanAlekseev",
+  "version": "1.0.0",
+  "description": "Javascript Practice Project https://git.heroku.com/geekb-dz.git",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geekbrains-Frontend-Level-2/RomanAlekseev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geekbrains-Frontend-Level-2/RomanAlekseev/issues"
+  },
+  "homepage": "https://github.com/Geekbrains-Frontend-Level-2/RomanAlekseev#readme"
+}
